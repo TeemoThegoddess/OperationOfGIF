@@ -21,7 +21,7 @@
     // Use deConposeGIF method
     //[self deConposeGIF];
     //[self playGIF];
-    [self conposeGIF];
+    //[self conposeGIF];
 }
 
 
